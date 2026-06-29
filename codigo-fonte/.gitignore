@@ -4,3 +4,4 @@ frontend/dist/
 .idea/
 .vscode/
 *.log
+/comandos_inicializacao_sistema_calculos_judiciais.txt
