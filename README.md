@@ -233,3 +233,4 @@ O repositório também contém `docker-compose.yml`, mas ele não está alinhado
 
 ## Video
 
+- https://youtu.be/PsPQS38g2H8
